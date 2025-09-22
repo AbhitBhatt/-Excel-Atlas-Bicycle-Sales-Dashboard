@@ -1,8 +1,8 @@
 
-# Atlas Cycle Sales Dashboard 🚴📊
+# Atlas Cycle Sales Dashboard and Pivots 🚴📊
 
 ## 📌 Project Overview  
-The **Atlas Cycle Sales Dashboard** is an **Excel-based business intelligence solution** designed to analyze sales, profit, and performance trends across multiple dimensions.  
+The **Atlas Cycle Sales Dashboard** is an **Excel-based business intelligence solution** designed to analyze sales, profit, and performance trends across multiple dimensions and scenario build up by Profit Margin without Discount.
 It provides key insights on revenue, profitability, customer segments, product performance, and geographic distribution – enabling data-driven decision-making for sales and marketing teams.  
 
 ![](./Atlas_Bicycle_Sales_Dashboard.png)
@@ -38,6 +38,13 @@ It provides key insights on revenue, profitability, customer segments, product p
    - Donut charts, bar charts, pie charts, and line charts for multiple perspectives.  
    - Clean design with slicers for quick drill-downs.  
 
+6. **Margin Impact of COGS & Discounts Sheet**
+    - This sheet provides a consolidated view of monthly and yearly profitability trends, showing how Gross Sales, COGS, and Discounts impact overall profit margins. It highlights the effect of costs and discounts on actual vs. potential profitability.
+   - 1st Pivot **(Profit Margin via Year & Month)**  Tracks Gross Sales, Total Profit, and Profit Margin % across months and years.
+
+   - 2nd Pivot **(Sales, COGS, and Discounts Trend Analysis)** Breaks down COGS and Discounts as a % of Gross Sales to show cost and pricing impact.
+
+   - 3rd Pivot **(Profit Margin without Discount)** Compares Actual Profit Margin vs. Margin without Discounts to measure the effect of discounts on profitability.
 ---
 
 ## 🛠 Tools & Techniques Used  
@@ -57,6 +64,8 @@ It provides key insights on revenue, profitability, customer segments, product p
 ##  Dashboard, Pivots & Data Snapshot  
 
 ![](./Atlas_Bicycle_Sales_Dashboard.png)
+
+![](./Profit_Margin.png)
 
 ![](./Pivots_For_Dashboard.png)
 
