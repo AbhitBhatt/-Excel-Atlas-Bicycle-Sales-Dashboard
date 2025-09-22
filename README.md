@@ -10,14 +10,14 @@ It provides key insights on revenue, profitability, customer segments, product p
 
 ---
 
-## 🎯 Key Features  
+##  Key Features / KPI 
 
 1. **KPIs at a Glance**  
-   - **Total Sales**: ₹11,87,26,350.26  
-   - **Profit**: ₹1,68,93,702.26  
+   - **Total Sales**: $11,87,26,350.26  
+   - **Profit**: $1,68,93,702.26  
    - **Units Sold**: 11,25,806  
    - **Profit Margin**: 14.23%  
-   - **Top-Selling Product**: PROD_ID_002 (₹3,30,11,144)  
+   - **Top-Selling Product**: PROD_ID_002 ($3,30,11,144)  
 
 2. **Sales & Profit Analysis**  
    - Year-over-Year sales and profit comparison (2021 vs 2022).  
@@ -54,7 +54,7 @@ It provides key insights on revenue, profitability, customer segments, product p
 
 ---
 
-## 📷 Dashboard, Pivots & Data Snapshot  
+##  Dashboard, Pivots & Data Snapshot  
 
 ![](./Atlas_Bicycle_Sales_Dashboard.png)
 
@@ -64,12 +64,9 @@ It provides key insights on revenue, profitability, customer segments, product p
 
 ---
 
-## 🚀 Key Takeaways  
+##  Key Takeaways  
 - Identified top-performing products, customers, and regions.  
 - Helped monitor **Actual Sales vs Targets** effectively.  
 - Delivered actionable insights to boost decision-making for marketing & sales strategies.  
 
----
-
-## 📂 Project Structure  
 
